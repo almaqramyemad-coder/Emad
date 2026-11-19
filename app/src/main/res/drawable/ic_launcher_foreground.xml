@@ -1,0 +1,42 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central decorative glow/backing circle -->
+    <path
+        android:fillColor="#EADDFF"
+        android:pathData="M54,24 A30,30 0 1 0 54,84 A30,30 0 1 0 54,24 Z" />
+
+    <!-- Isometric Bento / Construction Blocks in the center -->
+    <!-- Top Block/Roof -->
+    <path
+        android:fillColor="#381E72"
+        android:pathData="M54,34 L72,43 L54,52 L36,43 Z" />
+
+    <!-- Left side of structure -->
+    <path
+        android:fillColor="#4F378B"
+        android:pathData="M36,44 L54,53 L54,72 L36,63 Z" />
+
+    <!-- Right side of structure -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M54,53 L72,44 L72,63 L54,72 Z" />
+
+    <!-- Beautiful golden coin or business badge overlay representing Finance & Accounting -->
+    <path
+        android:fillColor="#FFD8E4"
+        android:pathData="M66,54 A10,10 0 1 0 66,74 A10,10 0 1 0 66,54 Z" />
+
+    <!-- Currency Symbol or Star inside the golden badge -->
+    <path
+        android:fillColor="#630B30"
+        android:pathData="M66,58 L66,70 M62,61 L70,61 M62,67 L70,67"
+        android:strokeWidth="1.5"
+        android:strokeColor="#630B30"
+        android:strokeLineCap="round" />
+
+</vector>
+

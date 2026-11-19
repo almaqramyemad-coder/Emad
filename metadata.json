@@ -1,0 +1,6 @@
+{
+  "name": "محاسبة المقاولات",
+  "description": "نظام محاسبة متكامل للمشاريع الإنشائية ومقاولي الباطن والتدفقات النقدية (إيرادات ومصروفات).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
